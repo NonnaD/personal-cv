@@ -1,1 +1,1 @@
-# pesronal-cv
+# personal-cv
